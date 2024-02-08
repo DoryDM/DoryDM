@@ -4,13 +4,13 @@ I'm DoryDM.
 
 <img  src="./moving-computer.gif" height="290px" align="right" />
 
-## 👨🏻‍💻 About Me:
+## 👩 About Me
 
 <!-- - 🙋‍♀️ All about me is at **[My Website](https://dorydm.com/)** -->
 
 - 📩 Mail: wolfgirlm830@gmail.com
 
-- 👩‍💻 Life Hack: May your choices reflect your hopes not your fears
+- 💻 Life Hack: May your choices reflect your hopes not your fears
 
 ## 🛠️ Technologies and Tools I use:
 
