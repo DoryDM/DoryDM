@@ -12,7 +12,7 @@ I'm DoryDM.
 
 - 💻 Life Hack: May your choices reflect your hopes not your fears
 
-## 🛠️ Technologies and Tools I use:
+## 🛠️ Technologies and Tools I use
 
 <p>
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
