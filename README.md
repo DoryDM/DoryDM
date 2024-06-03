@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm DoryDM.
+I'm DoryWang.
 
 <img  src="./purple_computer.gif" height="290px" align="right" />
 
